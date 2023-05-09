@@ -1,5 +1,5 @@
 import PaginaInicial from "./paginas/PaginaInicial";
-import './style.css'
+import './styles/estilosGlobais.scss'
 
 export default function App() {
   return (
